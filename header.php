@@ -6,12 +6,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Portal Indicadores</title>
-    <meta name="description" content="Portal Indicadores">
+    <title>INABIF | Sistema Administrativo</title>
+    <meta name="description" content="INABIF | Sistema Administrativo">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="apple-touch-icon" href="apple-icon.png">
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="images/inabif.jpg">
     <link href="assets/css/datepicker.min.css" rel="stylesheet" type="text/css">
 
     <link rel="stylesheet" href="assets/css/normalize.css">
@@ -41,7 +41,7 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="./"><img src="images/logo.png" alt="Logo"></a>
+                <a class="navbar-brand" href="./"><img src="images/inabif.jpg" alt="Logo"></a>
                 <a class="navbar-brand hidden" href="./"><img src="images/logo2.png" alt="Logo"></a>
             </div>
 
@@ -50,82 +50,76 @@
                     <li class="active">
                         <a href="index.php"> <i class="menu-icon fa fa-dashboard"></i>Pantalla Principal </a>
                     </li>
-                    <h3 class="menu-title">Indicadores</h3><!-- /.menu-title -->
+                    <h3 class="menu-title">Diagnóstico Basal o de Ingreso</h3><!-- /.menu-title -->
                     <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Gestión y Control del Centro</a>
-                        <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-1.php">Nivel de ejecución del plan de acción del centro MAC</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-3.php">Cumplimiento de condiciones mínimas de funcionamiento del Centro MAC 1</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-3-2.php">Cumplimiento de condiciones mínimas de funcionamiento del Centro MAC 2</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-5.php">Efectividad de las acciones implementadas sobre incidencias</a></li>
-                        </ul>
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos del Centro de Servicios</a>
+                       </li>
+
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Identificación Inicial o a la Inscripción del Residente</a>
+                       </li>
+
+                
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Admisión Del Residente </a>
+                       </li>
 
 
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Condiciones de Ingreso del Residente  </a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos Familiares y Sociales del Residente  </a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="datindicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Salud del Residente   </a>
+                       </li>
+                       <h3 class="menu-title">Seguimiento a cada NNA (Mensual)</h3>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Trabajo Social   </a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Actividades Sociorecreativas   </a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Salud</a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Nutrición</a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Terapia ocupacional y del lenguaje</a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Educación </a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Fortalecimiento de habilidades </a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Psicológico</a>
+                       </li>
+                       <h3 class="menu-title">Seguimiento (Semestral)</h3>
 
-                    </li>
-
-                    <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Operación del Centro</a>
-                        <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-8.php">Nivel de satisfacción de la información brindada al ciudadano</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-9.php">Tasa de atención de citas</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-11.php">Ratio de atenciónpor numero de tickets emitidos</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-11-1.php">Ticket de atencion x hora</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-12.php">Tiempo promedio de espera del ciudadano por trámite</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-14.php">Tasa de tickets en abandono</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-15.php">Tasa de reactivación de tickets</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-15-1.php">Atenciones totales diarias y acumuladas</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-16.php">Porcentaje de sugerencias atendidas oportunamente</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-17.php">Tasa de reclamos y quejas</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-18.php">Porcentaje de reclamos y quejas atendidos oportunamente</a></li>
-                        </ul>
-                    </li>
-
-                    <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Gestión de Personal</a>
-                        <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-19.php">Cobertura de difusión de la estrategia MAC al personal</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-20.php">Cumplimiento de los programas de capacitación/entrenamiento del personal</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-25.php">Nivel de desempeño del personal</a></li>
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-102.php">Control de asistencia</a></li>
-                        </ul>
-
-
-                    </li>
-
-                    <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Gestión de Recursos e Infraestructura</a>
-                        <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-area-chart"></i><a href="indicador-28.php">Cumplimiento del programa de mantenimiento</a></li>
-
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>ALÓ MAC</a>
-                        <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-bar-chart"></i><a href="indicador-104.php">Atenciones totales diarias y acumuladas</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Canal Digital</a>
-                        <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-area-chart"></i><a href="indicador-105.php">Atenciones totales diarias y acumuladas</a></li>
-
-                        </ul>
-                    </li>
-                    <h3 class="menu-title">USUARIOS</h3>
-                    <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-users"></i>Usuarios</a>
-                        <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-user"></i><a href="registro-usuario.php">Registro de Usuarios</a></li>
-                            <li><i class="fa fa-users"></i><a href="lista-usuarios.php">Lista de Usuarios</a></li>
-                        </ul>
-                    </li>
-
-
-
-
-
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Psicológico</a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Salud</a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Nutrición</a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Educación </a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Trabajo Social   </a>
+                       </li>
+                       <h3 class="menu-title">Salida</h3>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="indicador-1.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos Egreso del Usuario   </a>
+                       </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </nav>
@@ -145,13 +139,8 @@
                 <div class="col-sm-7">
                   <a id="menuToggle" class="menutoggle pull-left"><i class="fa fa fa-tasks"></i></a>
                   <div class="header-left">
-                      <button class="search-trigger"><i class="fa fa-search"></i></button>
-                      <div class="form-inline">
-                          <form class="search-form">
-                              <input class="form-control mr-sm-2" type="text" placeholder="Search ..." aria-label="Search">
-                              <button class="search-close" type="submit"><i class="fa fa-close"></i></button>
-                          </form>
-                      </div>
+                      
+                      
                   </div>
                 </div>
 
