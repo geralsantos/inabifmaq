@@ -30,18 +30,18 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Posee plan de intervención</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAPlanIntervencion" id="NNAPlanIntervencion" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Descripción de la meta trazada en el PAI</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNADesMetaPAI" name="NNADesMetaPAI" placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Posee informe técnico evolutivo?</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAinformeEvolutivo" id="NNAinformeEvolutivo" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select>  </div>
@@ -50,11 +50,11 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Descripción del informe evolutivo</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="text" id="NNADesInforme" name="NNADesInforme" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Cumplimiento del plan de intervención</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNACumplePlan" id="NNACumplePlan" class="form-control">
                                         <option value="">CUMPLIDA</option>
                                         <option value="">EN PROCESO</option>
                                         <option value="">NO SE EVIDENCIA PROGRESO</option>
@@ -63,7 +63,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Presencia de trastorno depresivo?</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNATranstornoDepresivo" id="NNATranstornoDepresivo" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
@@ -73,7 +73,7 @@
                                 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Severidad del trastorno depresivo?</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNASeveridadTranstornoDepresivo" id="NNASeveridadTranstornoDepresivo" class="form-control">
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>

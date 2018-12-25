@@ -30,51 +30,51 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Código de la Entidad</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNACodEntidad" name="NNACodEntidad" placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nombre de la Entidad</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNANomEntidad" name="NNANomEntidad" placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Código de la Línea</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNACodLinea" name="NNACodLinea" placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <div class=" "><label for="text-input" class=" form-control-label">Línea de Intervención</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNACodLineaIntervencion" name="NNACodLineaIntervencion" placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Código del Servicio</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNACodServicio" name="NNACodServicio" placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nombre del Servicio</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNANombreServicio" name="NNANombreServicio" placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Departamento del Centro de Atención</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNADepartamentoA" id="NNADepartamentoA" class="form-control">
                                         <option value="">Departamento</option>
                                     </select>
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Provincia del Centro de Atención</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAProvinciaAtencion" id="NNAProvinciaAtencion" class="form-control">
                                         <option value="">Provincia</option>
                                     </select>
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Distrito del Centro de Atención</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNADistritoAtencion" id="NNADistritoAtencion" class="form-control">
                                         <option value="">Distrito</option>
                                     </select>
                                     </div>
@@ -83,18 +83,18 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=""><label for="text-input" class=" form-control-label">Área de residencia del centro de atención</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAAreaResidencia" id="NNAAreaResidencia" class="form-control">
                                         <option value="">URBANO</option>
                                         <option value="">RURAL</option>
                                     </select></div>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <div class=""><label for="text-input" class=" form-control-label">Código del Centro de Atención</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"></div>
+                                    <input type="text" id="NNACodCentroA" name="NNACodCentroA" placeholder="" class="form-control"></div>
                                 </div>
                                 <div class="form-group col-md-5">
                                     <div class=""><label for="text-input" class=" form-control-label">Nombre del Centro de Atención</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"></div>
+                                    <input type="text" id="NNANomCentroA" name="NNANomCentroA" placeholder="" class="form-control"></div>
                                 </div>
                             </div>
                             

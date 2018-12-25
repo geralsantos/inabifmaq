@@ -30,14 +30,14 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Discapacidad</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNADiscapacidad" id="NNADiscapacidad" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Presenta Discapacidad Física</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNADiscapacidadFisica" id="NNADiscapacidadFisica" class="form-control">
                                     <option value="">No</option>
                                     <option value="">Leve</option>
                                     <option value="">Moderada</option>
@@ -46,7 +46,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Presenta Discapacidad Intelectual</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNADiscapacidadIntelectual" id="NNADiscapacidadIntelectual" class="form-control">
                                     <option value="">Nuclear</option>
                                     <option value="">Extensa</option>
                                     <option value="">Mononuclear</option>
@@ -56,7 +56,7 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Presenta Discapacidad Sensorial</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNADiscapacidadSensorial" id="NNADiscapacidadSensorial" class="form-control">
                                         <option value="">No</option>
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
@@ -65,7 +65,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Presenta Discapacidad Mental</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNADiscapacidadMental" id="NNADiscapacidadMental" class="form-control">
                                         <option value="">No</option>
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
@@ -74,7 +74,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">El Dx es Certificado</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNADxCertificado" id="NNADxCertificado" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
@@ -84,7 +84,7 @@
                                 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Tiene Carnet del CONADIS</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNACarnetConadis" id="NNACarnetConadis" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         <option value="">Se desconoce</option>
@@ -92,14 +92,14 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Trastorno Neurológico</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNATranstornoNeurologico" id="NNATranstornoNeurologico" class="form-control">
                                         <<option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Especificar Trastorno Neurológico Principal</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAEspecificaTranstornoNeurologico" id="NNAEspecificaTranstornoNeurologico" class="form-control">
                                         <option value="">Epilepsia</option>
                                         <option value="">Alzheimer</option>
                                         <option value="">Accidente cerebrovascular</option>
@@ -113,7 +113,7 @@
                             <div class="row">
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Solo a menor 36 meses ¿Recibió atenciones de CRED en el último mes? </label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNACRED" id="NNACRED" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
@@ -122,7 +122,7 @@
                             <div class="row">
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Solo a menor de 5 años ¿Recibió vacunas en el último mes? ¿Recibió vacunas según esquema de vacunación?</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAVacunas" id="NNAVacunas" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
@@ -132,14 +132,14 @@
                             <div class="row">
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Patología Crónica 1</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAPatologia1" id="NNAPatologia1" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Diagnósticos 1 según CIE 10 </label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNADesPatologia1" id="NNADesPatologia1" class="form-control">
                                         <option value="">VIH</option>
                                         <option value="">TBC</option>
                                         <option value="">Hepatitis</option>
@@ -156,14 +156,14 @@
                             <div class="row">
                             <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Patología Crónica 2</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAPatologia2" id="NNAPatologia2" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Diagnósticos 3 según CIE 10 </label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNADiagnostico3" id="NNADiagnostico3" class="form-control">
                                         <option value="">VIH</option>
                                         <option value="">TBC</option>
                                         <option value="">Hepatitis</option>
@@ -180,14 +180,14 @@
                             <div class="row">
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Presenta Transtorno de Comportamiento y/o disociales</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNATrastornoComportamiento" id="NNATrastornoComportamiento" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Tipo de Transtorno </label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNaTipoTranstorno" id="NNaTipoTranstorno" class="form-control">
                                         <option value="">Ninguna</option>
                                         <option value="">Transtorno Depresivo</option>
                                         <option value="">Transtornos Disociales</option>
@@ -201,44 +201,44 @@
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Gestante</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAGestante" id="NNAGestante" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Semanas de Gestación </label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNASemanaGestacion" name="NNASemanaGestacion" placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Ha Acudido a Control Parental</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAControlParental" id="NNAControlParental" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">NNA tiene hijos </label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNATieneHijos" id="NNATieneHijos" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Número de hijos de residentes en los CAR</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumHijos" name="NNANumHijos" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nivel de Hemoglobina (gr./dl.) </label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="text" id="NNANivelHemoglobina" name="NNANivelHemoglobina" placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Presenta Anemia</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAAnemia" id="NNAAnemia" class="form-control">
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>
@@ -246,18 +246,18 @@
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Peso (kg.)</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNAAnemia" name="NNAAnemia" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Talla (mt)</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNATalla" name="NNATalla" placeholder="" class="form-control">
                                 </div>
                                 
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Estado Nutricional (Peso para la talla) </label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAEstadoNutricionalPeso" id="NNAEstadoNutricionalPeso" class="form-control">
                                         <option value="">Bajo Peso</option>
                                         <option value="">Normal</option>
                                         <option value="">Sobrepeso</option>
@@ -267,7 +267,7 @@
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Estado Nutricional (Talla para la edad) </label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAEstadoNutricionalTalla" id="NNAEstadoNutricionalTalla" class="form-control">
                                         <option value="">Baja Talla</option>
                                         <option value="">Normal</option>
                                         <option value="">Alto</option>

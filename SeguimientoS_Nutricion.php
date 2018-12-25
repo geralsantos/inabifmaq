@@ -30,19 +30,19 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Plan de intervención</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAPlanIntervencion" id="NNAPlanIntervencion" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Meta trazada en el PAI</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="text" id="NNAMetaPAI" name="NNAMetaPAI" placeholder="" class="form-control">
                                      </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Posee informe técnico evolutivo?</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAInformeTecnico" id="NNAInformeTecnico" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select>  </div>
@@ -51,7 +51,7 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Cumplimiento del Plan de intervención</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNACumplePlan" id="NNACumplePlan" class="form-control">
                                         <option value="">CUMPLIDA</option>
                                         <option value="">EN PROCESO</option>
                                         <option value="">NO SE EVIDENCIA PROGRESO</option>
@@ -59,7 +59,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">ESTADO NUTRICIONALl (Peso para la Talla)</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNANutricionalPeso" id="NNANutricionalPeso" class="form-control">
                                         <option value="">Bajo peso</option>
                                         <option value="">Normal</option>
                                         <option value="">Sobpreso</option>
@@ -69,7 +69,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">ESTADO NUTRICIONAL  (Talla para la Edad)</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNANutricionalTalla" id="NNANutricionalTalla" class="form-control">
                                         <option value="">Baja Talla</option>
                                         <option value="">Normal</option>
                                         <option value="">Alto</option>
@@ -80,11 +80,11 @@
                                 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Hemoglobina(gr./dl.)</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNAHemoglobina" name="NNAHemoglobina" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Análisis de la Hemoglobina</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAAnalisisHemoglobina" id="NNAAnalisisHemoglobina" class="form-control">
                                         <<option value="">Normal</option>
                                         <option value="">Anemia Leve</option>
                                         <<option value="">Anemia moderada</option>

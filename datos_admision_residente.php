@@ -30,7 +30,7 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Movimiento Poblacional</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAMovimientoPoblacional" id="NNAMovimientoPoblacional" class="form-control">
                                     <option value="">Nuevo</option>
                                     <option value="">Continuador</option>
                                     <option value="">Reingreso</option>
@@ -39,31 +39,31 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Apellido Materno</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNAApellidoMaterno" name="NNAApellidoMaterno" placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nombre</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNANombre" name="NNANombre" placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">País de Procedencia</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAPaisProcedencia" id="NNAPaisProcedencia" class="form-control">
                                         <option value="">País</option>
                                     </select>
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Departamento de Procedencia</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNADepartementoProcedencia" id="NNADepartementoProcedencia" class="form-control">
                                         <option value="">Departamento</option>
                                     </select>
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Departamento de Nacimiento</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNADepartamentoNacimiento" id="NNADepartamentoNacimiento" class="form-control">
                                         <option value="">Departamento</option>
                                     </select>
                                     </div>
@@ -73,21 +73,21 @@
                             <div class="row">
                             <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Provincia de Nacimiento</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAProvinciaNacimiento" id="NNAProvinciaNacimiento" class="form-control">
                                         <option value="">Provincia</option>
                                     </select>
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Distrito de Nacimiento</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNADistritoNacimiento" id="NNADistritoNacimiento" class="form-control">
                                         <option value="">Distrito</option>
                                     </select>
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Sexo</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNASexo" id="NNASexo" class="form-control">
                                     <option value="">Hombre</option>
                                     <option value="">Mujer</option>
                                     </select>
@@ -97,17 +97,17 @@
                             <div class="row">
                             <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Fecha de Nacimiento</label>
-                                    <input type="date" class="form-control" id=""  placeholder="DD-MM-YYYY" v-model="fecha_fin_real"  data-language='es'  />
+                                    <input type="date" class="form-control" id="NNAFNacimiento" name="NNAFNacimiento"  placeholder="DD-MM-YYYY" v-model="fecha_fin_real"  data-language='es'  />
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Edad (Años)</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNAEdad" name="NNAEdad" placeholder="" class="form-control">
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Lengua Materna</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNALenguaMAterna" id="NNALenguaMAterna" class="form-control">
                                     <option value="">Quechua</option>
                                     <option value="">Castellano</option>
                                     </select>
@@ -115,7 +115,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Número o Código del Documento</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="text" id="NNACodigoDocumento" name="NNACodigoDocumento" placeholder="" class="form-control">
                                     </div>
                                 </div>
                             </div>

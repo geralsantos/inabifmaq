@@ -30,18 +30,18 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Plan de Intervención </label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAPlanIntervencion" id="NNAPlanIntervencion" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Meta trazada en el PAI</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">  </div>
+                                    <input type="text" id="NNAMetaPAI" name="NNAMetaPAI" placeholder="" class="form-control">  </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Posee informe técnico evolutivo?</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAInformeTecnico" id="NNAInformeTecnico" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select>  </div>
@@ -50,7 +50,7 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Cumplimiento del Plan de intervención</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNACumplePlan" id="NNACumplePlan" class="form-control">
                                         <option value="">CUMPLIDA</option>
                                         <option value="">EN PROCESO</option>
                                         <option value="">NO SE EVIDENCIA PROGRESO</option>
@@ -58,14 +58,14 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">PARTICIPACIÓN ACTIVA FAMILIAR?</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAActivaFamilia" id="NNAActivaFamilia" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Plan de Reinserción familiar?</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAPlanReinsercionFamiliar" id="NNAPlanReinsercionFamiliar" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
@@ -75,7 +75,7 @@
                                 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Familia usa las redes de soporte social?</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNARedesSoporte" id="NNARedesSoporte" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 

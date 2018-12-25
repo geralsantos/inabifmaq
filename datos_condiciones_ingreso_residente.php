@@ -30,7 +30,7 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Tipo de Documento de Identidad</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNATipoDoc" id="NNATipoDoc" class="form-control">
                                     <option value="">Dni</option>
                                     <option value="">Carné de extranjeria</option>
                                     <option value="">Pasaporte</option>
@@ -39,11 +39,11 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Número de Documento de Identidad</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNANumDoc" name="NNANumDoc" placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Saber Leer y Escribir</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNALeeEscribe" id="NNALeeEscribe" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select>
@@ -53,7 +53,7 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nivel Educativo</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNANivelEducativo" id="NNANivelEducativo" class="form-control">
                                     <option value="">Sin Educación</option>
                                     <option value="">Primaria Incompleta</option>
                                     <option value="">Primaria Completa</option>
@@ -62,7 +62,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Tipo de Seguro de Salud</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNATipoSeguro" id="NNATipoSeguro" class="form-control">
                                     <option value="">ESSALUD</option>
                                     <option value="">FFAA_PNP</option>
                                     <option value="">Seguro Privado</option>
@@ -71,7 +71,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Clasificación Socioeconómica (SISFOH)</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAClasificacionSocioeconomica" id="NNAClasificacionSocioeconomica" class="form-control">
                                     <option value="">Sin Clasificación Socioeconómica</option>
                                     <option value="">Pobre Extremo</option>
                                     <option value="">Pobre no Extremo</option>

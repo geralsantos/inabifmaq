@@ -30,14 +30,14 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Plan de Intervención psicológico</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAPlanintervencion" id="NNAPlanintervencion" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Durante el periodo ha presentado </label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAPresento" id="NNAPresento" class="form-control">
                                     <option value=""> Problemas del aprendizaje</option>
                                     <option value="">Retraso en el Desarrollo psicomotor</option>
                                     <option value="">Trastorno de Estrés Post Traumático</option>
@@ -49,7 +49,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">PRINCIPAL PERFIL ACTUAL</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAPrincipalPerfil" id="NNAPrincipalPerfil" class="form-control">
                                     <option value="">Trastorno de comportamiento</option>
                                     <option value="">Consumidores de sustancias psicoactivas</option>
                                     <option value="">Experiencia Vida en Calle</option>
@@ -71,63 +71,63 @@
                             <div class="row">
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Intervenciones terapéutica individual</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNANunTerapiaIndividual" name="NNANunTerapiaIndividual" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Intervenciones terapéutica grupal</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNATerapiaGrupal" name="NNATerapiaGrupal" placeholder="" class="form-control">
                                 </div>
                                 
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Consejerías y orientaciones psicológica</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNAConsejeriaPsicologica" name="NNAConsejeriaPsicologica" placeholder="" class="form-control">
                                 </div>
                                 
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Consejerías y orientaciones a la familia2</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNAOrientacionFamiliar" name="NNAOrientacionFamiliar" placeholder="" class="form-control">
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Charlas Preventivo  - Promocionales Psicológicos</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumCharlas" name="NNANumCharlas" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones  Taller de Liderazgo</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumTallerLiderazgo" name="NNANumTallerLiderazgo" placeholder="" class="form-control">
                                 </div>
                                 
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones Taller de Autoestima</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNANunTallerAutoestima" name="NNANunTallerAutoestima" placeholder="" class="form-control">
                                 </div>
                                 
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones  Taller de Sexualidad</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumTallerSexual" name="NNANumTallerSexual" placeholder="" class="form-control">
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones   Taller de prevención del embarazo en adolescentes</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNAPrevencionEmbarazo" name="NNAPrevencionEmbarazo" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones  Taller de Igualdad de Género</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumIgualdadGenero" name="NNANumIgualdadGenero" placeholder="" class="form-control">
                                 </div>
                                 
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones  Taller de Violencia Familiar</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumViolenciaFamiliar" name="NNANumViolenciaFamiliar" placeholder="" class="form-control">
                                 </div>
                                 
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones Taller de Salud mental</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumSaludMental" name="NNANumSaludMental" placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">

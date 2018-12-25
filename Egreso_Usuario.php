@@ -30,12 +30,12 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">FECHA DE EGRESO</label>
-                                    <input type="date" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="date" id="NNAFEgreso" name="NNAFEgreso" placeholder="" class="form-control">
                                      </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">MOTIVO DEL EGRESO</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAMotivoEgreso" id="NNAMotivoEgreso" class="form-control">
                                     <option value="">Acogimiento Familiar</option>
                                     <option value="">Adopción</option>
                                     <option value="">Defunción</option>
@@ -49,27 +49,27 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Detalle del motivo del egreso</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNADetalleMotivoEgreso" name="NNADetalleMotivoEgreso" placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Aseguramiento Universal de Salud-AUS</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNASaludAUS" id="NNASaludAUS" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Partida de Nacimiento?</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAPartidaNacimiento" id="NNAPartidaNacimiento" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">DNI?</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNATieneDNI" id="NNATieneDNI" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
@@ -79,14 +79,14 @@
                                 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Educación?</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAEducacion" id="NNAEducacion" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-4">
-                                    <label for="text-input" class=" form-control-label">Reinseción Familiar</label>
-                                        <select name="select" id="select" class="form-control">
+                                    <label for="text-input" class=" form-control-label">Reinserción Familiar</label>
+                                        <select name="NNAReinsercionFamiliar" id="NNAReinsercionFamiliar" class="form-control">
                                         <<option value="">Padre</option>
                                         <option value="">Madre</option>
                                         <<option value="">Hermano</option>

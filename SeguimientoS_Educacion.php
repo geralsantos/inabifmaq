@@ -30,18 +30,18 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Plan de Intervención</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAPlanIntervencion" id="NNAPlanIntervencion" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Meta trazada en el PAI</label>
-                                    <input type="text" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNAMetaPAI" name="NNAMetaPAI" placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Posee informe técnico evolutivo</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAInformeTecnico" id="NNAInformeTecnico" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select>  </div>
@@ -50,7 +50,7 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Cumplimiento del Plan de intervención</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNACumplePlan" id="NNACumplePlan" class="form-control">
                                         <option value="">CUMPLIDA</option>
                                         <option value="">EN PROCESO</option>
                                         <option value="">NO SE EVIDENCIA PROGRESO</option>
@@ -58,14 +58,14 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Residente promovido de año ?</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAPromovido" id="NNAPromovido" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Desempeño Académico favorable?</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAAcademicoFavorable" id="NNAAcademicoFavorable" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 

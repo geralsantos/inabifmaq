@@ -30,25 +30,25 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Plan de intervención nutricional</label>
-                                    <select name="select" id="select" class="form-control">
+                                    <select name="NNAPlanIntervencion" id="NNAPlanIntervencion" class="form-control">
                                     <option value="">Si</option>
                                     <option value="">No</option>
                                     </select> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Peso (Kg)</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control">
+                                    <input type="number" id="NNAPeso" name="NNAPeso" placeholder="" class="form-control">
                                      </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Talla</label>
-                                    <input type="number" id="txtaccionprogramada" name="txtaccionprogramada" placeholder="" class="form-control"> </div>
+                                    <input type="number" id="NNATalla" name="NNATalla" placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Residente presenta Anemia</label>
-                                        <select name="select" id="select" class="form-control">
+                                        <select name="NNAPresentaAnemia" id="NNAPresentaAnemia" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
                                         </select> 
