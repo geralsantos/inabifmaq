@@ -76,7 +76,7 @@
                        </li>
                        <h3 class="menu-title">Seguimiento a cada NNA (Mensual)</h3>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Trabajo_SocialNNA.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Trabajo Social   </a>
+                        <a href="trabajo_socialNNA.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Trabajo Social   </a>
                        </li>
                        <li class="menu-item-has-children dropdown">
                         <a href="Actividades_Sociorecreativas.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Actividades Sociorecreativas   </a>
