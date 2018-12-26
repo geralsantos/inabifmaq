@@ -10,7 +10,7 @@
     <meta name="description" content="INABIF | Sistema Administrativo">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="apple-touch-icon" href="../apple-icon.png">
+    <link rel="apple-touch-icon" href="apple-icon.png">
     <link rel="shortcut icon" href="../images/inabif.jpg">
     <link href="../assets/css/datepicker.min.css" rel="stylesheet" type="text/css">
 
@@ -41,82 +41,84 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="./"><img src="../images/inabif.jpg" alt="Logo"></a>
-                <a class="navbar-brand hidden" href="./"><img src="../images/logo2.png" alt="Logo"></a>
+                <a class="navbar-brand" href="../"><img src="../images/inabif.jpg" alt="Logo"></a>
+                <a class="navbar-brand hidden" href="../"><img src="../images/logo2.png" alt="Logo"></a>
             </div>
 
             <div id="main-menu" class="main-menu collapse navbar-collapse">
-            <ul class="nav navbar-nav">
+                <ul class="nav navbar-nav">
                     <li class="active">
                         <a href="index.php"> <i class="menu-icon fa fa-dashboard"></i>Pantalla Principal </a>
                     </li>
-                    <h3 class="menu-title">Diagnóstico</h3><!-- /.menu-title -->
+                    <h3 class="menu-title">Diagnóstico Basal o de Ingreso</h3><!-- /.menu-title -->
                     <li class="menu-item-has-children dropdown">
                         <a href="datos_centro_servicios.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos del Centro de Servicios</a>
                        </li>
 
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Identificacion_Residente.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Identificación del Residente</a>
+                        <a href="datos_identificacion_inicial_inscripcion_residente.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Identificación Inicial o a la Inscripción del Residente</a>
                        </li>
 
                 
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Admision_usuario.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Admisión Del Residente </a>
+                        <a href="datos_admision_residente.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Admisión Del Residente </a>
                        </li>
 
 
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Condicion_Ingreso.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Condiciones de Ingreso del Residente  </a>
+                        <a href="datos_condiciones_ingreso_residente.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Condiciones de Ingreso del Residente  </a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Salud_Nutricion.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Salud y Nutrición del Residente   </a>
+                        <a href="datos_familiares_sociales_residente.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos Familiares y Sociales del Residente  </a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Salud_Mental.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Salud Mental   </a>
+                        <a href="datos_salud_residente.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos de Salud del Residente   </a>
                        </li>
-                       <h3 class="menu-title">Seguimiento (Mensual)</h3>
-
+                       <h3 class="menu-title">Seguimiento a cada NNA (Mensual)</h3>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Terapia.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Terapia   </a>
-                       </li>
-                       <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Actividades_TecnicoProductivas.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Actividades Técnico Productivas   </a>
+                        <a href="Trabajo_SocialNNA.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Trabajo Social   </a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Atencion_Psicologica.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Atención Psicológica</a>
+                        <a href="Actividades_Sociorecreativas.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Actividades Sociorecreativas   </a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Educacion_ParticipacionLaboral.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Educación, Participación Laboral y Fortalecimiento</a>
+                        <a href="Seguimiento_Salud.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Salud</a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Atencion_TrabajoSocial.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Atención en Trabajo Social</a>
+                        <a href="Seguimiento_Nutricion.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Nutrición</a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Atencion_Salud.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Atenciones en Salud </a>
+                        <a href="Seguimiento_TerapiaOcupacional.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Terapia ocupacional y del lenguaje</a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="Seguimiento_Educacion.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Educación </a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="Seguimiento_FortalecimientoHabilidades.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Fortalecimiento de habilidades </a>
+                       </li>
+                       <li class="menu-item-has-children dropdown">
+                        <a href="Seguimiento_Psicologico.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Psicológico</a>
                        </li>
                        <h3 class="menu-title">Seguimiento (Semestral)</h3>
 
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Egreso_Psicologica.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Psicológico</a>
+                        <a href="seguimientoS_Psicologico.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Psicológico</a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Egreso_Educacion.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Educación </a>
+                        <a href="SeguimientoS_Salud.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Salud</a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Egreso_Salud.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Salud</a>
+                        <a href="SeguimientoS_Nutricion.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Nutrición</a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Egreso_TerapiaFisica.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Terapia Física</a>
+                        <a href="SeguimientoS_Educacion.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Educación </a>
                        </li>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Egreso_Nutricion.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Nutrición</a>
-                       </li>
-                       <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Egreso_TrabajoSocial.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Trabajo Social   </a>
+                        <a href="SEguimientoS_TrabajoSocial.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Trabajo Social   </a>
                        </li>
                        <h3 class="menu-title">Salida</h3>
                        <li class="menu-item-has-children dropdown">
-                        <a href="Datos_Egreso_Generales.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos Generales</a>
+                        <a href="Egreso_Usuario.php" class=""  aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-laptop"></i>Datos Egreso del Usuario   </a>
                        </li>
                 </ul>
             </div><!-- /.navbar-collapse -->

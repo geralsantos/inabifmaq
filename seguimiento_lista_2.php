@@ -45,7 +45,7 @@
                                     <tr>
                                     
                                         <th scope="col">Usuarios</th>
-                                        <th scope="col">Encangado</th>
+                                        <th scope="col">Encargado</th>
                                         <th scope="col">Completo</th>
                                         <th scope="col">Última actualización</th>
                                        
