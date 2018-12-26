@@ -48,7 +48,7 @@
             <div id="main-menu" class="main-menu collapse navbar-collapse">
             <ul class="nav navbar-nav">
                     <li class="active">
-                        <a href="index.php"> <i class="menu-icon fa fa-dashboard"></i>Pantalla Principal </a>
+                        <a href="#"> <i class="menu-icon fa fa-dashboard"></i>Pantalla Principal </a>
                     </li>
                     <h3 class="menu-title">Diagnóstico</h3><!-- /.menu-title -->
                     <li class="menu-item-has-children dropdown">
