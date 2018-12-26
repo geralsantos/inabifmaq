@@ -3,7 +3,7 @@
             <div class="col-sm-4">
                 <div class="page-header float-left">
                     <div class="page-title">
-                        <h1>USPAM</h1>
+                        <h1>USPPAM</h1>
                     </div>
                 </div>
             </div>
