@@ -3,7 +3,7 @@
             <div class="col-sm-4">
                 <div class="page-header float-left">
                     <div class="page-title">
-                        <h1>UPSPAM</h1>
+                        <h1>USPAM</h1>
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@
                             </div>
                             <div class="row">
                             <div class="form-group col-md-4">
-                                    <div class=""><label for="text-input" class=" form-control-label">Documento Nacional de Identidad - DNI</label>
+                                    <div class=""><label for="text-input" class="form-control-label">Documento Nacional de Identidad - DNI</label>
                                     <select name="select" id="select" class="form-control">
                                     <option value="">SI</option>
                                     <option value="">NO</option>
