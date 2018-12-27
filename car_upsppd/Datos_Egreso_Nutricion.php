@@ -38,7 +38,7 @@
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Descripción de la meta trazada en el PII</label>
                                     <input type="text" id="CarDesMetaPII" name="CarDesMetaPII" placeholder="" class="form-control">
-                                    
+
                                 </div>
 
                                 <div class="form-group col-md-4">
@@ -48,7 +48,7 @@
                                         <option value="">No</option>
                                     </select>
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
@@ -76,19 +76,19 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Peso (Kg.)</label>
-                                    <input type="number" id="CarPeso" name="CarPeso" placeholder="" class="form-control">
+                                    <input type="text" id="CarPeso" name="CarPeso" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Talla (m)</label>
-                                    <input type="number" id="CarTalla" name="CarTalla" placeholder="" class="form-control">
+                                    <input type="text" id="CarTalla" name="CarTalla" placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                    <label for="text-input" class=" form-control-label">Hemoglobina (gr./dl)</label>
-                                   <input type="number" id="CarHemoglobina" name="CarHemoglobina" placeholder="" class="form-control">
+                                   <input type="text" id="CarHemoglobina" name="CarHemoglobina" placeholder="" class="form-control">
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="col-md-12 text-center" >
