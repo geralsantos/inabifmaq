@@ -61,7 +61,7 @@
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Presenta Discapacidad Mental</label>
@@ -70,32 +70,32 @@
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">El Dx es Certificado</label>
                                         <select name="NNADxCertificado" id="NNADxCertificado" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
-                                
+
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Tiene Carnet del CONADIS</label>
                                         <select name="NNACarnetConadis" id="NNACarnetConadis" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        <option value="">Se desconoce</option>
-                                        </select> 
+                                        <option value="">S/D</option>
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Trastorno Neurológico</label>
                                         <select name="NNATranstornoNeurologico" id="NNATranstornoNeurologico" class="form-control">
                                         <<option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Especificar Trastorno Neurológico Principal</label>
@@ -107,7 +107,9 @@
                                         <option value="">Esclerosis Múltiple</option>
                                         <option value="">Parkinson</option>
                                         <option value="">Infecciones Neurológica</option>
-                                        </select> 
+                                        <option value="">Traumatismo Encefálo Craneano</option>
+                                        <option value="">Otros</option>
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
@@ -116,7 +118,7 @@
                                         <select name="NNACRED" id="NNACRED" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
@@ -125,9 +127,9 @@
                                         <select name="NNAVacunas" id="NNAVacunas" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-6">
@@ -135,7 +137,7 @@
                                         <select name="NNAPatologia1" id="NNAPatologia1" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Diagnósticos 1 según CIE 10 </label>
@@ -150,7 +152,7 @@
                                         <option value="">Cancer</option>
                                         <option value="">Estreñimiento</option>
                                         <option value="">Otros</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
@@ -159,7 +161,7 @@
                                         <select name="NNAPatologia2" id="NNAPatologia2" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Diagnósticos 3 según CIE 10 </label>
@@ -174,7 +176,7 @@
                                         <option value="">Cancer</option>
                                         <option value="">Estreñimiento</option>
                                         <option value="">Otros</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
@@ -183,7 +185,7 @@
                                         <select name="NNATrastornoComportamiento" id="NNATrastornoComportamiento" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Tipo de Transtorno </label>
@@ -197,14 +199,14 @@
                                         <option value="">Transtornos de la personalidad</option>
                                         <option value="">Demencia</option>
                                         <option value="">Otros</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Gestante</label>
                                         <select name="NNAGestante" id="NNAGestante" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Semanas de Gestación </label>
@@ -217,14 +219,14 @@
                                         <select name="NNAControlParental" id="NNAControlParental" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">NNA tiene hijos </label>
                                         <select name="NNATieneHijos" id="NNATieneHijos" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Número de hijos de residentes en los CAR</label>
@@ -242,7 +244,7 @@
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Peso (kg.)</label>
@@ -252,7 +254,7 @@
                                     <label for="text-input" class=" form-control-label">Talla (mt)</label>
                                     <input type="number" id="NNATalla" name="NNATalla" placeholder="" class="form-control">
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-3">
@@ -263,7 +265,7 @@
                                         <option value="">Sobrepeso</option>
                                         <option value="">Obesidad</option>
                                         <option value="">Obesidad Mórbida</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Estado Nutricional (Talla para la edad) </label>
@@ -271,7 +273,7 @@
                                         <option value="">Baja Talla</option>
                                         <option value="">Normal</option>
                                         <option value="">Alto</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">

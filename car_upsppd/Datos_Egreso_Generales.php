@@ -35,24 +35,23 @@
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Motivo del egreso</label>
                                     <select name="CarMotivoEgreso" id="CarMotivoEgreso" class="form-control">
-                                        <option value=""> Traslado a otro CAR </option>
-                                        <option value="">Traslado a un establecimiento de salud por un periodo prolongado 2.Defunción</option>
-                                        <option value="">Reinserción Familiar,</option>
-                                        <option value="">Retiro voluntario</option>
-                                        <option value="">Acogimiento Familiar</option>
+                                        <option value="">Traslado a otro CAR</option>
+                                        <option value="">Fallecimiento</option>
+                                        <option value="">Reinserción Familiar</option>
+                                        <option value="">Vida Independiente</option>
                                         <option value="">Otro</option>
                                     </select>
                                 </div>
 
                                 <div class="form-group col-md-4">
-                                    <label for="text-input" class=" form-control-label">Traslado a otro CAR</label>
+                                    <label for="text-input" class=" form-control-label">Traslado</label>
                                     <select name="CarTrasladoCar" id="CarTrasladoCar" class="form-control">
-                                        <option value="">Otro CAR del INABIF</option>
-                                        <option value="">Otro CAR público</option>
-                                        <option value="">Otro CAR privado</option>
+                                        <option value="">ESSALUD</option>
+                                        <option value="">MINSA</option>
+                                        <option value="">Otros</option>
                                     </select>
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
@@ -132,6 +131,20 @@
                                         <option value="">Reinserción Familiar</option>
                                         <option value="">Ninguno</option>
                                         <option value="">Otro</option>
+                                    </select>
+                                </div>
+                                <div class="form-group col-md-4">
+                                   <label for="text-input" class=" form-control-label">Cumplimiento de restitución de derechos al egreso</label>
+                                   <select name="CarCumResDerEgreso" id="CarCumResDerEgreso" class="form-control">
+                                        <option value="">Si</option>
+                                        <option value="">No</option>
+                                    </select>
+                                </div>
+                                <div class="form-group col-md-4">
+                                   <label for="text-input" class=" form-control-label">AUS</label>
+                                   <select name="CarAus" id="CarAus" class="form-control">
+                                        <option value="">Si</option>
+                                        <option value="">No</option>
                                     </select>
                                 </div>
                             </div>

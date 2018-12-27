@@ -38,7 +38,7 @@
                                         </select>
                                 </div>
                                 <div class="form-group col-md-6">
-                                    <div class=" "><label for="text-input" class=" form-control-label">Fecha de ingreso del usuario</label>
+                                    <div class=" "><label for="text-input" class=" form-control-label">Fecha de Reingreso del usuario</label>
                                     <input type="date" id="CarFIngreso" name="CarFIngreso" placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
@@ -64,7 +64,7 @@
                                         <option value="">Riesgo de desprotección</option>
                                         <option value="">Situación de desprotección</option>
                                     </select>
-                                    
+
                                 </div>
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Tipo de documento de ingreso al CAR</label>
@@ -82,9 +82,9 @@
                                     <input type="number" id="CarNumDoc" name="CarNumDoc" placeholder="" class="form-control">
                                     </div>
                                 </div>
-                                
+
                             </div>
-                           
+
                             <div class="row">
                                 <div class="col-md-12 text-center" >
                                     <button type="submit" class="btn btn-success btn-sm">

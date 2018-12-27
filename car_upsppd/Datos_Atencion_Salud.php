@@ -45,7 +45,7 @@
                                     <label for="text-input" class=" form-control-label">Número de salidas a hospitales</label>
                                     <input type="number" id="CarNunSalidas" name="CarNunSalidas" placeholder="" class="form-control">
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
@@ -57,12 +57,12 @@
                                     <input type="number" id="CarANefrologia" name="CarANefrologia" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
-                                    <label for="text-input" class=" form-control-label">Nº Atenciones en ONCOLOGÓA</label>
+                                    <label for="text-input" class=" form-control-label">Nº Atenciones en ONCOLOGÍA</label>
                                     <input type="number" id="CarAOncologia" name="CarAOncologia" placeholder="" class="form-control">
                                 </div>
 
                             </div>
-                            
+
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en NEUROCIRUGÍA</label>
@@ -88,15 +88,15 @@
                                     <input type="number" id="CarAGinecoObstretica" name="CarAGinecoObstretica" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
-                                    <label for="text-input" class=" form-control-label">Nº Atenciones en INFECTO-CONTAGIOSAS</label>
-                                    <input type="number" id="CarAInfectoContagiosas" name="CarAInfectoContagiosas" placeholder="" class="form-control">
+                                    <label for="text-input" class=" form-control-label">Nº Atenciones en HEMATOLOGIA</label>
+                                    <input type="number" id="CarAHematologia" name="CarAHematologia" placeholder="" class="form-control">
                                 </div>
 
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
-                                    <label for="text-input" class=" form-control-label">Nº Atenciones en CARDIOVASCULAR</label>
-                                    <input type="number" id="CarACardiovascular" name="CarACardiovascular" placeholder="" class="form-control">
+                                    <label for="text-input" class=" form-control-label">Nº Atenciones en INFECTO-CONTAGIOSAS</label>
+                                    <input type="number" id="CarAInfectoContagiosas" name="CarAInfectoContagiosas" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en INMUNOLOGIA</label>
@@ -137,7 +137,7 @@
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en PEDIATRIA</label>
                                     <input type="number" id="CarAPedriatria" name="CarAPedriatria" placeholder="" class="form-control">
                                 </div>
-                            </div>   
+                            </div>
 
                             <div class="row">
                                 <div class="form-group col-md-4">
@@ -188,7 +188,7 @@
                                     <label for="text-input" class=" form-control-label">Número de hospitalizaciones</label>
                                     <input type="number" id="CarNumHospitalizaciones" name="CarNumHospitalizaciones" placeholder="" class="form-control">
                                 </div>
-                            </div>  
+                            </div>
 
                             <div class='row'>
                                 <div class="form-group col-md-4">

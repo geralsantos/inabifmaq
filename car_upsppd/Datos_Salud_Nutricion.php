@@ -54,7 +54,7 @@
                                         <option value="">SEVERA</option>
                                     </select>
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
@@ -203,7 +203,7 @@
                              <div class="row">
                                 <div class="form-group col-md-3">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nivel de Hemoglobina</label>
-                                    <input type="number" id="CarNivelHemoglobina" name="CarNivelHemoglobina" placeholder="" class="form-control">
+                                    <input type="text" id="CarNivelHemoglobina" name="CarNivelHemoglobina" placeholder="" class="form-control">
                                     </div>
                                 </div>
                                 <div class="form-group col-md-3">
@@ -217,12 +217,12 @@
 
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Peso (Kg.)</label>
-                                    <input type="number" id="CarPeso" name="CarPeso" placeholder="" class="form-control">
+                                    <input type="text" id="CarPeso" name="CarPeso" placeholder="" class="form-control">
                                 </div>
 
                                  <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Talla (m)</label>
-                                    <input type="number" id="CarTalla" name="CarTalla" placeholder="" class="form-control">
+                                    <input type="text" id="CarTalla" name="CarTalla" placeholder="" class="form-control">
                                 </div>
                             </div>
 

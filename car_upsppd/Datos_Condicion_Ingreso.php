@@ -28,7 +28,7 @@
                     <div class="card-body card-block">
                         <form action="" method="post" enctype="multipart/form-data" class="form-horizontal">
                             <div class="row">
-                            <div class="form-group col-md-4">
+                                <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Documento de Identidad al ingreso</label>
                                     <select name="CarDocIngreso" id="CarDocIngreso" class="form-control">
                                         <option value="">Si</option>
@@ -50,7 +50,26 @@
                                     <label for="text-input" class=" form-control-label">Número del documento </label>
                                     <input type="number" id="CarNumDoc" name="CarNumDoc" placeholder="" class="form-control">
                                 </div>
-                                
+                            </div>
+                            <div class="row">
+                                <div class="form-group col-md-6">
+                                    <label for="text-input" class=" form-control-label">Documento de Identidad al ingreso</label>
+                                    <select name="CarPoseePension" id="CarPoseePension" class="form-control">
+                                        <option value="">Si</option>
+                                        <option value="">No</option>
+                                    </select>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <div class=" "><label for="text-input" class=" form-control-label">Tipo de pensión que percibe</label>
+                                    <select name="CarTipoPension" id="CarTipoPension" class="form-control">
+                                        <option value="">ONP</option>
+                                        <option value="">AFP</option>
+                                        <option value="">Otros</option>
+                                        <option value="">No se sabe</option>
+                                        <option value="">Ninguna</option>
+                                    </select>
+                                    </div>
+                                </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
@@ -126,7 +145,27 @@
                                         <option value=""> Abuelos/as</option>
                                         <option value="">Otros/as</option>
                                     </select>
-                                    
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="text-input" class=" form-control-label">Problemática familiar</label>
+                                    <select name="CarTipoParentesco" id="CarTipoParentesco" class="form-control">
+                                        <option value="">Ausentismo de madre por trabajo</option>
+                                        <option value="">Conductual/experiencia en calle</option>
+                                        <option value="">Violencia sexual</option>
+                                        <option value="">Desintegrada e incompleta</option>
+                                        <option value="">Desinterés rol parental/ disfuncional / Disgregada</option>
+                                        <option value="">Drogadicción</option>
+                                        <option value="">Escasa preocupación</option>
+                                        <option value="">Inadecuada forma de crianza</option>
+                                        <option value="">Maltrato físico</option>
+                                        <option value="">Experiencia en calle Multi problemática</option>
+                                        <option value="">Negligencia</option>
+                                        <option value="">Orfandad</option>
+                                        <option value="">Privado de su libertad</option>
+                                        <option value="">Prostitución</option>
+                                        <option value="">Salud mental </option>
+                                        <option value="">Otros</option>
+                                    </select>
                                 </div>
                             </div>
                             <div class="row">
