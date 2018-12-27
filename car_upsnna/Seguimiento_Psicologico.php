@@ -45,7 +45,7 @@
                                     <option value="">Diagnóstico depresivo</option>
                                     <option value="">Diagnóstico de Ansiedad</option>
                                     <option value="">trastorno del comportamiento</option>
-                                    </select> </div>        
+                                    </select> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">PRINCIPAL PERFIL ACTUAL</label>
@@ -64,7 +64,8 @@
                                     <option value="">Presunto infractor</option>
                                     <option value="">Víctima de maltrato físico y/o psicológico</option>
                                     <option value="">Abandono</option>
-                                    </select>  
+                                    <option value=""> Victimas de explotación sexual</option>
+                                    </select>
                                     </div>
                                 </div>
                             </div>
@@ -77,12 +78,12 @@
                                     <label for="text-input" class=" form-control-label">Nº Intervenciones terapéutica grupal</label>
                                     <input type="number" id="NNATerapiaGrupal" name="NNATerapiaGrupal" placeholder="" class="form-control">
                                 </div>
-                                
+
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Consejerías y orientaciones psicológica</label>
                                     <input type="number" id="NNAConsejeriaPsicologica" name="NNAConsejeriaPsicologica" placeholder="" class="form-control">
                                 </div>
-                                
+
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Consejerías y orientaciones a la familia2</label>
                                     <input type="number" id="NNAOrientacionFamiliar" name="NNAOrientacionFamiliar" placeholder="" class="form-control">
@@ -98,12 +99,12 @@
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones  Taller de Liderazgo</label>
                                     <input type="number" id="NNANumTallerLiderazgo" name="NNANumTallerLiderazgo" placeholder="" class="form-control">
                                 </div>
-                                
+
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones Taller de Autoestima</label>
                                     <input type="number" id="NNANunTallerAutoestima" name="NNANunTallerAutoestima" placeholder="" class="form-control">
                                 </div>
-                                
+
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones  Taller de Sexualidad</label>
                                     <input type="number" id="NNANumTallerSexual" name="NNANumTallerSexual" placeholder="" class="form-control">
@@ -119,12 +120,12 @@
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones  Taller de Igualdad de Género</label>
                                     <input type="number" id="NNANumIgualdadGenero" name="NNANumIgualdadGenero" placeholder="" class="form-control">
                                 </div>
-                                
+
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones  Taller de Violencia Familiar</label>
                                     <input type="number" id="NNANumViolenciaFamiliar" name="NNANumViolenciaFamiliar" placeholder="" class="form-control">
                                 </div>
-                                
+
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº participaciones en sesiones Taller de Salud mental</label>
                                     <input type="number" id="NNANumSaludMental" name="NNANumSaludMental" placeholder="" class="form-control">

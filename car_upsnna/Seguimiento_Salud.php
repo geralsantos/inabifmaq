@@ -60,10 +60,10 @@
                                 </div>
                             </div>
                             <div class="row">
-                                
+
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Diagnóstico Neurológico 3 (CIE-10)</label>
-                                    <input type="number" id="NNANeurologico3" name="NNANeurologico3" placeholder="" class="form-control"> 
+                                    <input type="number" id="NNANeurologico3" name="NNANeurologico3" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Diagnóstico  Crónico 1 (CIE-10)</label>
@@ -72,7 +72,7 @@
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Diagnóstico  Crónico 2 (CIE-10)</label>
                                     <input type="number" id="NNACronico2" name="NNACronico2" placeholder="" class="form-control">
-                                        
+
                                 </div>
                             </div>
                             <div class="row">
@@ -85,9 +85,9 @@
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Diagnóstico  Agudo 1 (CIE-10)</label>
                                     <input type="number" id="NNAAgudo1" name="NNAAgudo1" placeholder="" class="form-control">
-                                        
+
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-6">
@@ -105,14 +105,14 @@
                                     <select name="NNAPresentaVIH" id="NNAPresentaVIH" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Residente presenta ETS?</label>
                                         <select name="NNAPresentaETS" id="NNAPresentaETS" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
@@ -121,28 +121,28 @@
                                     <select name="NNAHepatitisA" id="NNAHepatitisA" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                 <label for="text-input" class=" form-control-label">Residente presenta HEPATITIS B?</label>
                                     <select name="NNAHepatitisB" id="NNAHepatitisB" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Residente presenta Caries dental?</label>
                                     <select name="NNACariesDental" id="NNACariesDental" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">DISCAPACIDAD</label>
                                         <select name="NNADiscapacidad" id="NNADiscapacidad" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
@@ -153,7 +153,7 @@
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Presenta discapacidad intelectual?</label>
@@ -162,7 +162,7 @@
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Presenta discapacidad sensorial?</label>
@@ -171,7 +171,7 @@
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Presenta discapacidad mental?</label>
@@ -180,9 +180,9 @@
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>
-                                    </select> 
+                                    </select>
                                 </div>
-                                
+
                             </div>
 
                             <div class='row'>
@@ -191,14 +191,14 @@
                                     <select name="NNASIS" id="NNASIS" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">ESSALUD</label>
                                     <select name="NNAESSALUD" id="NNAESSALUD" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Otro tipo de Seguro de Salud?</label>
@@ -208,16 +208,16 @@
                                         <option value="">Seguro Privado</option>
                                         <option value="">Seguro Integral de Salud(SIS)</option>
                                         <option value="">Otro</option>
-                                        <option value="">No Tiene)</option>
-                                    </select> 
-                                    
+                                        <option value="">No Tiene</option>
+                                    </select>
+
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">CONADIS?</label>
                                     <select name="NNAConadis" id="NNAConadis" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                             </div>
 
@@ -371,7 +371,7 @@
                                     <select name="NNAHospitalizado" id="NNAHospitalizado" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                             </div>
 
@@ -381,23 +381,23 @@
                                     <select name="NNAEmergenciaHospital" id="NNAEmergenciaHospital" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Inscrito en CRED ?</label>
                                     <select name="NNAInscritoCred" id="NNAInscritoCred" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Carné de inmunización?</label>
                                     <select name="NNACarnetInmunizacion" id="NNACarnetInmunizacion" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                    </select> 
+                                    </select>
                                 </div>
-                               
+
                             </div>
 
                             <div class="row">

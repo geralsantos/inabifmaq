@@ -56,31 +56,31 @@
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Situación Legal del NNA</label>
                                         <select name="NNASituacionLegal" id="NNASituacionLegal" class="form-control">
-                                        <option value="">No</option>
-                                        <option value="">Leve</option>
-                                        <option value="">Leve</option>
-                                        <option value="">Leve</option>
-                                        <option value="">Moderada</option>
-                                        <option value="">Severa</option>
-                                        </select> 
+                                        <option value="">En investigación tutelar</option>
+                                        <option value="">Sin investigación tutelar</option>
+                                        <option value="">Sentencia de estado de abandono</option>
+                                        <option value="">Sentencia infundado estado de abandono</option>
+                                        <option value="">Archivado por mayoría de edad</option>
+
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">El NNA cuenta con familia ubicada?</label>
                                         <select name="NNAFamiliaUbicada" id="NNAFamiliaUbicada" class="form-control">
                                         <option value="">SI</option>
                                         <option value="">NO</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">El NNA cuenta con soporte familiar?</label>
                                         <select name="NNASoporteFAmiliar" id="NNASoporteFAmiliar" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
-                                
+
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Persona que brinda soporte familiar</label>
                                         <select name="NNABrindaSoporteFamiliar" id="NNABrindaSoporteFamiliar" class="form-control">
@@ -90,7 +90,7 @@
                                         <option value="">Primo/a</option>
                                         <option value="">Tio/a</option>
                                         <option value="">Otros</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Tipo de Familia</label>
@@ -100,7 +100,7 @@
                                         <<option value="">MonoNuclear</option>
                                         <option value="">Homoparental</option>
                                         <option value="">Ensamblada</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Problematica Familiar</label>
@@ -113,8 +113,8 @@
                                         <option value="">Multi problemática</option>
                                         <option value="">Disgregada</option>
                                         <option value="">Otros</option>
-                                        </select> 
-                                        
+                                        </select>
+
                                 </div>
                             </div>
                             <div class="row">
@@ -123,7 +123,7 @@
                                         <select name="NNAClasificacionSISFOH" id="NNAClasificacionSISFOH" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
@@ -133,10 +133,10 @@
                                         <option value="">POBRE EXTREMO</option>
                                         <option value="">POBRE</option>
                                         <option value="">NO POBRE</option>
-                                        </select> 
-                                        
+                                        </select>
+
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-6">
@@ -158,13 +158,13 @@
                                         <select name="NNARedesSoporte" id="NNARedesSoporte" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº de consejerias y orientaciones al residente </label>
-                                    <input type="number" id="NNAConsejeria" name="NNAConsejeria" placeholder="" class="form-control"> 
+                                    <input type="number" id="NNAConsejeria" name="NNAConsejeria" placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Charlas Preventivo  - Promocionales </label>
@@ -179,7 +179,7 @@
                                         <select name="NNAPlanReinsercionFamiliar" id="NNAPlanReinsercionFamiliar" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
@@ -188,23 +188,23 @@
                                         <select name="NNACuentaDNI" id="NNACuentaDNI" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Residente cuenta con AUS/SIS?</label>
                                         <select name="NNACuentaAUSSIS" id="NNACuentaAUSSIS" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Residente cuenta con carnet del CONADIS?</label>
                                         <select name="NNACarnetConadis" id="NNACarnetConadis" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="col-md-12 text-center" >

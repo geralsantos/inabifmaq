@@ -37,7 +37,11 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Meta trazada en el PAI</label>
-                                    <input type="text" id="NNAMetaPAI" name="NNAMetaPAI" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNAMetaPAI" name="NNAMetaPAI" placeholder="" class="form-control">
+
+                                     </div>
+
+
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Posee informe técnico evolutivo</label>
@@ -50,25 +54,26 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Cumplimiento del Plan de intervención</label>
-                                        <select name="NNACumplePlan" id="NNACumplePlan" class="form-control">
+                                       <!--  <select name="NNACumplePlan" id="NNACumplePlan" class="form-control">
                                         <option value="">CUMPLIDA</option>
                                         <option value="">EN PROCESO</option>
                                         <option value="">NO SE EVIDENCIA PROGRESO</option>
-                                        </select> 
+                                        </select>  -->
+                                        <textarea rows="4" cols="50" id="NNACumplePlan" name="NNACumplePlan" class="form-control"></textarea>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Residente promovido de año ?</label>
                                         <select name="NNAPromovido" id="NNAPromovido" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Desempeño Académico favorable?</label>
                                         <select name="NNAAcademicoFavorable" id="NNAAcademicoFavorable" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">

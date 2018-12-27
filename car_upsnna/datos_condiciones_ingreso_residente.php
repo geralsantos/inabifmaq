@@ -66,6 +66,9 @@
                                     <option value="">ESSALUD</option>
                                     <option value="">FFAA_PNP</option>
                                     <option value="">Seguro Privado</option>
+                                    <option value="">Seguro Integral de Salud(SIS)</option>
+                                    <option value="">Otro</option>
+                                    <option value="">No tiene</option>
                                     </select>
                                     </div>
                                 </div>
@@ -79,9 +82,9 @@
                                     </select>
                                     </div>
                                 </div>
-                                
+
                             </div>
-                            
+
                             <div class="row">
                                 <div class="col-md-12 text-center" >
                                     <button type="submit" class="btn btn-success btn-sm">

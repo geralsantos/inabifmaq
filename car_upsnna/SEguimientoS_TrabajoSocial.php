@@ -61,27 +61,27 @@
                                         <select name="NNAActivaFamilia" id="NNAActivaFamilia" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Plan de Reinserción familiar?</label>
                                         <select name="NNAPlanReinsercionFamiliar" id="NNAPlanReinsercionFamiliar" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
-                                
+
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Familia usa las redes de soporte social?</label>
                                     <select name="NNARedesSoporte" id="NNARedesSoporte" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
-                        
+
                             <div class="row">
                                 <div class="col-md-12 text-center" >
                                     <button type="submit" class="btn btn-success btn-sm">

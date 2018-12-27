@@ -42,6 +42,10 @@
                                     <option value="">Madre</option>
                                     <option value="">Hermano/a</option>
                                     <option value="">Tio/a</option>
+                                    <option value="">Primos/as</option>
+                                    <option value="">Abuelos/as</option>
+                                    <option value="">Otros/as</option>
+
                                     </select> </div>
                                 </div>
                                 <div class="form-group col-md-4">
@@ -50,6 +54,7 @@
                                     <option value="">Nuclear</option>
                                     <option value="">Extensa</option>
                                     <option value="">Mononuclear</option>
+                                    <option value="">etc</option>
                                     </select>  </div>
                                 </div>
                             </div>
@@ -62,11 +67,25 @@
                                     <option value="">Experiencia en Calle</option>
                                     <option value="">Conductual</option>
                                     <option value="">Violencia Sexual</option>
+                                    <option value="">Desintegrada e incompleta, Desinterés rol parental</option>
+                                    <option value="">Disfuncional</option>
+                                    <option value="">Disgregada, Drogadicción</option>
+                                    <option value="">Escasa preocupación</option>
+                                    <option value="">Inadecuada forma de crianza</option>
+                                    <option value="">Maltrato físico, Violencia -sexual</option>
+                                    <option value="">Experiencia en calle Multi problemática</option>
+                                    <option value="">Negligencia</option>
+                                    <option value="">Orfandad</option>
+                                    <option value="">Privado de su libertad</option>
+                                    <option value="">Prostitución</option>
+                                    <option value="">Salud mental</option>
+                                    <option value="">Otros</option>
                                     </select>
+
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <div class="row">
                                 <div class="col-md-12 text-center" >
                                     <button type="submit" class="btn btn-success btn-sm">

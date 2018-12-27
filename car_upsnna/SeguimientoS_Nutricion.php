@@ -55,7 +55,7 @@
                                         <option value="">CUMPLIDA</option>
                                         <option value="">EN PROCESO</option>
                                         <option value="">NO SE EVIDENCIA PROGRESO</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">ESTADO NUTRICIONALl (Peso para la Talla)</label>
@@ -65,7 +65,7 @@
                                         <option value="">Sobpreso</option>
                                         <option value="">Obesidad</option>
                                         <option value="">Obesidad mórbida</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">ESTADO NUTRICIONAL  (Talla para la Edad)</label>
@@ -77,7 +77,7 @@
                                 </div>
                             </div>
                             <div class="row">
-                                
+
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Hemoglobina(gr./dl.)</label>
                                     <input type="number" id="NNAHemoglobina" name="NNAHemoglobina" placeholder="" class="form-control">
@@ -88,11 +88,10 @@
                                         <<option value="">Normal</option>
                                         <option value="">Anemia Leve</option>
                                         <<option value="">Anemia moderada</option>
-                                        <option value="">Homoparental</option>
                                         <option value="">Anemia severa</option>
                                         </select>
                                 </div>
-                                
+
                             </div>
                             <div class="row">
                                 <div class="col-md-12 text-center" >

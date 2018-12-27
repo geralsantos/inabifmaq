@@ -38,6 +38,7 @@
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Meta trazada en el PAI</label>
                                     <input type="text" id="NNAMetaPAI" name="NNAMetaPAI" placeholder="" class="form-control">
+
                                      </div>
                                 </div>
                                 <div class="form-group col-md-4">
@@ -62,17 +63,17 @@
                                         <select name="NNAControlCRED" id="NNAControlCRED" class="form-control">
                                         <option value="">SI</option>
                                         <option value="">NO</option>
-                                        </select> 
+                                        </select>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Esquema de vacunación acorde a la Edad?</label>
                                         <select name="NNAVacuna" id="NNAVacuna" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
-                           
+
                             <div class="row">
                                 <div class="col-md-12 text-center" >
                                     <button type="submit" class="btn btn-success btn-sm">

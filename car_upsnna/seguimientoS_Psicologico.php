@@ -38,6 +38,7 @@
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Descripción de la meta trazada en el PAI</label>
                                     <input type="text" id="NNADesMetaPAI" name="NNADesMetaPAI" placeholder="" class="form-control"> </div>
+
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Posee informe técnico evolutivo?</label>
@@ -50,7 +51,10 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Descripción del informe evolutivo</label>
-                                    <input type="text" id="NNADesInforme" name="NNADesInforme" placeholder="" class="form-control">
+
+                                    <textarea rows="4" cols="50" id="NNADesInforme" name="NNADesInforme" class="form-control">
+
+                                    </textarea>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Cumplimiento del plan de intervención</label>
@@ -58,31 +62,31 @@
                                         <option value="">CUMPLIDA</option>
                                         <option value="">EN PROCESO</option>
                                         <option value="">NO SE EVIDENCIA PROGRESO</option>
-                                        </select> 
-                                        
+                                        </select>
+
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Presencia de trastorno depresivo?</label>
                                         <select name="NNATranstornoDepresivo" id="NNATranstornoDepresivo" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
-                                        </select> 
+                                        </select>
                                 </div>
                             </div>
                             <div class="row">
-                                
+
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Severidad del trastorno depresivo?</label>
                                         <select name="NNASeveridadTranstornoDepresivo" id="NNASeveridadTranstornoDepresivo" class="form-control">
                                         <option value="">Leve</option>
                                         <option value="">Moderada</option>
                                         <option value="">Severa</option>
-                                        </select> 
-                                        
+                                        </select>
+
                                 </div>
-                                
+
                             </div>
-                            
+
                             <div class="row">
                                 <div class="col-md-12 text-center" >
                                     <button type="submit" class="btn btn-success btn-sm">
