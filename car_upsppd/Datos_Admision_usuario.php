@@ -50,10 +50,10 @@
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Institución que lo derivó</label>
                                     <select name="CarIDerivo" id="CarIDerivo" class="form-control">
-                                        <option value="">Fiscalía</option>
-                                        <option value="">Juzgado</option>
-                                        <option value="">Unidad de Protección Especial</option>
-                                        <option value=""> Otros</option>
+                                        <option value="Fiscalia">Fiscalía</option>
+                                        <option value="Juzgado">Juzgado</option>
+                                        <option value="Unidad de Protección Especial">Unidad de Protección Especial</option>
+                                        <option value="Otros"> Otros</option>
                                     </select>
                                 </div>
                             </div>

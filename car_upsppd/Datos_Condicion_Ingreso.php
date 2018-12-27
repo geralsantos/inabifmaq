@@ -53,7 +53,7 @@
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-6">
-                                    <label for="text-input" class=" form-control-label">Documento de Identidad al ingreso</label>
+                                    <label for="text-input" class=" form-control-label">Posee algún tipo de Pensión</label>
                                     <select name="CarPoseePension" id="CarPoseePension" class="form-control">
                                         <option value="">Si</option>
                                         <option value="">No</option>
