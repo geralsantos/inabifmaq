@@ -80,18 +80,18 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de días de asistencia</label>
-                                    <input type="number" id="NNANumAsistencias" name="NNANumAsistencias" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumAsistencias" name="NNANumAsistencias" value='5' placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">
                                 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de sesiones de reforzamiento escolar</label>
-                                    <input type="number" id="NNANumReforzamientoEscolar" name="NNANumReforzamientoEscolar" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumReforzamientoEscolar" name="NNANumReforzamientoEscolar" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de consejerías y orientaciones - Área educativa</label>
-                                    <input type="number" id="NNAAreaEducativa" name="NNAAreaEducativa" placeholder="" class="form-control">
+                                    <input type="number" id="NNAAreaEducativa" name="NNAAreaEducativa" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Se encuentran participando de entrenamiento profesional/técnico</label>
@@ -107,7 +107,7 @@
                             <div class="row">
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Especificar la actividad / oficio</label>
-                                        <textarea name="NNAEspecificaActividad" id="NNAEspecificaActividad"></textarea>
+                                        <textarea name="NNAEspecificaActividad" id="NNAEspecificaActividad">Especificar</textarea>
                                 </div>
                             </div>
                             

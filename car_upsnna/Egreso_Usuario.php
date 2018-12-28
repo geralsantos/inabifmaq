@@ -49,7 +49,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Detalle del motivo del egreso</label>
-                                    <input type="text" id="NNADetalleMotivoEgreso" name="NNADetalleMotivoEgreso" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNADetalleMotivoEgreso" name="NNADetalleMotivoEgreso" value='Detalle motivo' placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">

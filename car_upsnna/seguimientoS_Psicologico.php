@@ -37,7 +37,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Descripción de la meta trazada en el PAI</label>
-                                    <input type="text" id="NNADesMetaPAI" name="NNADesMetaPAI" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNADesMetaPAI" name="NNADesMetaPAI" value='Meta' placeholder="" class="form-control"> </div>
 
                                 </div>
                                 <div class="form-group col-md-4">

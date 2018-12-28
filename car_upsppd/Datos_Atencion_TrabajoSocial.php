@@ -37,7 +37,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">n° de visitas en el mes</label>
-                                    <input type="number" id="CarNumVisitaMes" name="CarNumVisitaMes" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumVisitaMes" name="CarNumVisitaMes" value='5'  placeholder="" class="form-control">
                                 </div>
 
                                 <div class="form-group col-md-4">

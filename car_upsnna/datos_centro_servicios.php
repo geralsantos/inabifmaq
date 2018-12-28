@@ -30,31 +30,31 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Código de la Entidad</label>
-                                    <input type="text" id="NNACodEntidad" name="NNACodEntidad" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNACodEntidad" name="NNACodEntidad" value='Co10' placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nombre de la Entidad</label>
-                                    <input type="text" id="NNANomEntidad" name="NNANomEntidad" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNANomEntidad" name="NNANomEntidad" value='Entidad Nombre' placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Código de la Línea</label>
-                                    <input type="text" id="NNACodLinea" name="NNACodLinea" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNACodLinea" name="NNACodLinea" value='Line001' placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <div class=" "><label for="text-input" class=" form-control-label">Línea de Intervención</label>
-                                    <input type="text" id="NNACodLineaIntervencion" name="NNACodLineaIntervencion" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNACodLineaIntervencion" name="NNACodLineaIntervencion" value='Linea Nombre' placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Código del Servicio</label>
-                                    <input type="text" id="NNACodServicio" name="NNACodServicio" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNACodServicio" name="NNACodServicio" value='Ser014' placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nombre del Servicio</label>
-                                    <input type="text" id="NNANombreServicio" name="NNANombreServicio" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNANombreServicio" name="NNANombreServicio" value='servicio Nombre' placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
@@ -90,11 +90,11 @@
                                 </div>
                                 <div class="form-group col-md-3">
                                     <div class=""><label for="text-input" class=" form-control-label">Código del Centro de Atención</label>
-                                    <input type="text" id="NNACodCentroA" name="NNACodCentroA" placeholder="" class="form-control"></div>
+                                    <input type="text" id="NNACodCentroA" name="NNACodCentroA" value='Aten001' placeholder="" class="form-control"></div>
                                 </div>
                                 <div class="form-group col-md-5">
                                     <div class=""><label for="text-input" class=" form-control-label">Nombre del Centro de Atención</label>
-                                    <input type="text" id="NNANomCentroA" name="NNANomCentroA" placeholder="" class="form-control"></div>
+                                    <input type="text" id="NNANomCentroA" name="NNANomCentroA" value='Centro A. Nombre' placeholder="" class="form-control"></div>
                                 </div>
                             </div>
                             

@@ -39,11 +39,11 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Apellido Materno</label>
-                                    <input type="text" id="NNAApellidoMaterno" name="NNAApellidoMaterno" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNAApellidoMaterno" value='Perez' name="NNAApellidoMaterno" placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nombre</label>
-                                    <input type="text" id="NNANombre" name="NNANombre" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNANombre" name="NNANombre" value='Carlos ' placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
@@ -102,7 +102,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Edad (Años)</label>
-                                    <input type="number" id="NNAEdad" name="NNAEdad" placeholder="" class="form-control">
+                                    <input type="number" id="NNAEdad" name="NNAEdad" value='12' placeholder="" class="form-control">
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
@@ -115,7 +115,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Número o Código del Documento</label>
-                                    <input type="text" id="NNACodigoDocumento" name="NNACodigoDocumento" placeholder="" class="form-control">
+                                    <input type="text" id="NNACodigoDocumento" name="NNACodigoDocumento" value='89654514' placeholder="" class="form-control">
                                     </div>
                                 </div>
                             </div>

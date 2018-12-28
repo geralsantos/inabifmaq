@@ -48,7 +48,7 @@
 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Número del documento </label>
-                                    <input type="number" id="CarNumDoc" name="CarNumDoc" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumDoc" name="CarNumDoc" value='56540248' placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">

@@ -30,7 +30,7 @@
                             <div class="row">
                             <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en Medicina General por profesional del CAR</label>
-                                    <input type="number" id="CarNumAtencionesMG" name="CarNumAtencionesMG" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumAtencionesMG" name="CarNumAtencionesMG" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Residente tuvo salidad a hospitales en el mes</label>
@@ -43,22 +43,22 @@
 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Número de salidas a hospitales</label>
-                                    <input type="number" id="CarNunSalidas" name="CarNunSalidas" placeholder="" class="form-control">
+                                    <input type="number" id="CarNunSalidas" name="CarNunSalidas"  value='5' placeholder="" class="form-control">
                                 </div>
 
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en CARDIOVASCULAR</label>
-                                    <input type="number" id="CarNumACardiovascular" name="CarNumACardiovascular" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumACardiovascular" name="CarNumACardiovascular" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en NEFROLOGÍA</label>
-                                    <input type="number" id="CarANefrologia" name="CarANefrologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarANefrologia" name="CarANefrologia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en ONCOLOGÍA</label>
-                                    <input type="number" id="CarAOncologia" name="CarAOncologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarAOncologia" name="CarAOncologia" value='5' placeholder="" class="form-control">
                                 </div>
 
                             </div>
@@ -66,45 +66,45 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en NEUROCIRUGÍA</label>
-                                    <input type="number" id="CarANeurocirugia" name="CarANeurocirugia" placeholder="" class="form-control">
+                                    <input type="number" id="CarANeurocirugia" name="CarANeurocirugia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en DERMATOLOGÍA</label>
-                                    <input type="number" id="CarNumDermatologia" name="CarNumDermatologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumDermatologia" name="CarNumDermatologia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en ENDOCRINOLOGÍA</label>
-                                    <input type="number" id="CarAEncornologia" name="CarAEncornologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarAEncornologia" name="CarAEncornologia" value='5' placeholder="" class="form-control">
                                 </div>
 
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en GASTROENTEROLOGIA</label>
-                                    <input type="number" id="CarAGastroenterologia" name="CarAGastroenterologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarAGastroenterologia" name="CarAGastroenterologia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en GINECO-OBSTETRICIA</label>
-                                    <input type="number" id="CarAGinecoObstretica" name="CarAGinecoObstretica" placeholder="" class="form-control">
+                                    <input type="number" id="CarAGinecoObstretica" name="CarAGinecoObstretica" value='5'  placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en HEMATOLOGIA</label>
-                                    <input type="number" id="CarAHematologia" name="CarAHematologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarAHematologia" name="CarAHematologia" value='5' placeholder="" class="form-control">
                                 </div>
 
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en INFECTO-CONTAGIOSAS</label>
-                                    <input type="number" id="CarAInfectoContagiosas" name="CarAInfectoContagiosas" placeholder="" class="form-control">
+                                    <input type="number" id="CarAInfectoContagiosas" name="CarAInfectoContagiosas" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en INMUNOLOGIA</label>
-                                    <input type="number" id="CarAInmunologia" name="CarAInmunologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarAInmunologia" name="CarAInmunologia"  value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en MEDICINA FISICA Y REHABILITACION</label>
-                                    <input type="number" id="CarAMedicinaFisica" name="CarAMedicinaFisica" placeholder="" class="form-control">
+                                    <input type="number" id="CarAMedicinaFisica" name="CarAMedicinaFisica" value='5' placeholder="" class="form-control">
                                 </div>
 
                             </div>
@@ -112,60 +112,60 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en NEUMOLOGIA</label>
-                                    <input type="number" id="CarANeumologia" name="CarANeumologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarANeumologia" name="CarANeumologia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en NUTRICION</label>
-                                    <input type="number" id="CarAnutricion" name="CarAnutricion" placeholder="" class="form-control">
+                                    <input type="number" id="CarAnutricion" name="CarAnutricion" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en NEUROLOGIA</label>
-                                    <input type="number" id="CarANeurologia" name="CarANeurologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarANeurologia" name="CarANeurologia" value='5' placeholder="" class="form-control">
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en OFTALMOLOGIA</label>
-                                    <input type="number" id="CarAOftamologia" name="CarAOftamologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarAOftamologia" name="CarAOftamologia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en OTORRINOLARINGOLOGIA</label>
-                                    <input type="number" id="CarAOtorrinoloringologia" name="CarAOtorrinoloringologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarAOtorrinoloringologia" name="CarAOtorrinoloringologia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en PEDIATRIA</label>
-                                    <input type="number" id="CarAPedriatria" name="CarAPedriatria" placeholder="" class="form-control">
+                                    <input type="number" id="CarAPedriatria" name="CarAPedriatria" value='5' placeholder="" class="form-control">
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en PSIQUIATRIA</label>
-                                    <input type="number" id="CarAPsiquiatria" name="CarAPsiquiatria" placeholder="" class="form-control">
+                                    <input type="number" id="CarAPsiquiatria" name="CarAPsiquiatria" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en QUIRURGICA</label>
-                                    <input type="number" id="CarAQuirurgica" name="CarAQuirurgica" placeholder="" class="form-control">
+                                    <input type="number" id="CarAQuirurgica" name="CarAQuirurgica" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en TRAUMATOLOGIA</label>
-                                    <input type="number" id="CarATraumologia" name="CarATraumologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarATraumologia" name="CarATraumologia" value='5' placeholder="" class="form-control">
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en UROLOGIA</label>
-                                    <input type="number" id="CarAUrologia" name="CarAUrologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarAUrologia" name="CarAUrologia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en ODONTOLOGIA</label>
-                                    <input type="number" id="CarAOdontologia" name="CarAOdontologia" placeholder="" class="form-control">
+                                    <input type="number" id="CarAOdontologia" name="CarAOdontologia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atenciones en Otros servicios</label>
-                                    <input type="number" id="CarAServicios" name="CarAServicios" placeholder="" class="form-control">
+                                    <input type="number" id="CarAServicios" name="CarAServicios" value='5' placeholder="" class="form-control">
                                 </div>
                             </div>
 
@@ -186,14 +186,14 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Número de hospitalizaciones</label>
-                                    <input type="number" id="CarNumHospitalizaciones" name="CarNumHospitalizaciones" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumHospitalizaciones" name="CarNumHospitalizaciones" value='5'  placeholder="" class="form-control">
                                 </div>
                             </div>
 
                             <div class='row'>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Motivo de la hospitalización</label>
-                                    <input type="text" id="CarMotivoHospitalizacion" name="CarMotivoHospitalizacion" placeholder="" class="form-control">
+                                    <input type="text" id="CarMotivoHospitalizacion" name="CarMotivoHospitalizacion" value='5' placeholder="" class="form-control">
                                 </div>
                             </div>
 

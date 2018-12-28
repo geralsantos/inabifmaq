@@ -30,27 +30,27 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nº Talleres Educativos</label>
-                                    <input type="number" id="NNATallerEducativo" name="NNATallerEducativo" placeholder="" class="form-control">
+                                    <input type="number" id="NNATallerEducativo" name="NNATallerEducativo" value='5' placeholder="" class="form-control">
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nº Campañas Preventivo  - Promocionales</label>
-                                    <input type="number" id="NNAPreventivo" name="NNAPreventivo" placeholder="" class="form-control">
+                                    <input type="number" id="NNAPreventivo" name="NNAPreventivo" value='5' placeholder="" class="form-control">
                                      </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nº Atención en Terapia Física</label>
-                                    <input type="number" id="NNATerapiaFisica" name="NNATerapiaFisica" placeholder="" class="form-control">  </div>
+                                    <input type="number" id="NNATerapiaFisica" name="NNATerapiaFisica" value='5' placeholder="" class="form-control">  </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atención en Terapia Ocupacional</label>
-                                    <input type="number" id="NNATerapiaOcupacional" name="NNATerapiaOcupacional" placeholder="" class="form-control">
+                                    <input type="number" id="NNATerapiaOcupacional" name="NNATerapiaOcupacional" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Nº Atención en Terapia de Lenguaje</label>
-                                    <input type="number" id="NNATerapiaLengua" name="NNATerapiaLengua" placeholder="" class="form-control">
+                                    <input type="number" id="NNATerapiaLengua" name="NNATerapiaLengua" value='5' placeholder="" class="form-control">
                                 </div>
                               
                             </div>

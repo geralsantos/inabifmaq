@@ -37,12 +37,12 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Peso (Kg)</label>
-                                    <input type="number" id="NNAPeso" name="NNAPeso" placeholder="" class="form-control">
+                                    <input type="number" id="NNAPeso" name="NNAPeso" value='5.5' placeholder="" class="form-control">
                                      </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Talla</label>
-                                    <input type="number" id="NNATalla" name="NNATalla" placeholder="" class="form-control"> </div>
+                                    <input type="number" id="NNATalla" name="NNATalla" value='5.35' placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">

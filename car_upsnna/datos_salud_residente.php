@@ -210,7 +210,7 @@
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Semanas de Gestación </label>
-                                    <input type="number" id="NNASemanaGestacion" name="NNASemanaGestacion" placeholder="" class="form-control">
+                                    <input type="number" id="NNASemanaGestacion" name="NNASemanaGestacion" value='2' placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">
@@ -230,11 +230,11 @@
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Número de hijos de residentes en los CAR</label>
-                                    <input type="number" id="NNANumHijos" name="NNANumHijos" placeholder="" class="form-control">
+                                    <input type="number" id="NNANumHijos" name="NNANumHijos" value='2' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nivel de Hemoglobina (gr./dl.) </label>
-                                    <input type="text" id="NNANivelHemoglobina" name="NNANivelHemoglobina" placeholder="" class="form-control">
+                                    <input type="text" id="NNANivelHemoglobina" name="NNANivelHemoglobina" value='2.5' placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">
@@ -248,11 +248,11 @@
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Peso (kg.)</label>
-                                    <input type="number" id="NNAAnemia" name="NNAAnemia" placeholder="" class="form-control">
+                                    <input type="number" id="NNAAnemia" name="NNAAnemia" value='50.80' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Talla (mt)</label>
-                                    <input type="number" id="NNATalla" name="NNATalla" placeholder="" class="form-control">
+                                    <input type="number" id="NNATalla" name="NNATalla" value='1.50' placeholder="" class="form-control">
                                 </div>
 
                             </div>

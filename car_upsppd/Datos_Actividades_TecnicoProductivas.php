@@ -30,57 +30,57 @@
                             <div class="row">
                             <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de veces que Participa en el taller de Biohuerto</label>
-                                    <input type="number" id="CarNumBiohuerto" name="CarNumBiohuerto" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumBiohuerto" name="CarNumBiohuerto" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">N° de veces que Participa en el taller de Manualidades</label>
-                                    <input type="number" id="CarNumManualidades" name="CarNumManualidades" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumManualidades" name="CarNumManualidades" value='5' placeholder="" class="form-control">
                                     </div>
                                 </div>
 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de veces que Participa en el taller de Panadería- repostería</label>
-                                    <input type="number" id="CarNumReposteria" name="CarNumReposteria" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumReposteria" name="CarNumReposteria"  value='5' placeholder="" class="form-control">
                                 </div>
                                 
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de veces que participa de paseos o caminatas</label>
-                                    <input type="number" id="CarNumPaseos" name="CarNumPaseos" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumPaseos" name="CarNumPaseos" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de veces que participa de Visitas culturales</label>
-                                    <input type="number" id="CarNumVCulturales" name="CarNumVCulturales" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumVCulturales" name="CarNumVCulturales" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de veces que participa de Actividades cívicas y protocolares</label>
-                                    <input type="number" id="CarNumACivicas" name="CarNumACivicas" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumACivicas" name="CarNumACivicas" value='5' placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de veces que participa en deporte Fútbol</label>
-                                    <input type="number" id="CarNumFutbol" name="CarNumFutbol" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumFutbol" name="CarNumFutbol" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">N° de veces que participa en deporte Natación</label>
-                                    <input type="number" id="CarNumNatacion" name="CarNumNatacion" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumNatacion" name="CarNumNatacion" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                    <label for="text-input" class=" form-control-label">N° de veces que participa en Otros deportes</label>
-                                   <input type="number" id="CarNumODeportes" name="CarNumODeportes" placeholder="" class="form-control">
+                                   <input type="number" id="CarNumODeportes" name="CarNumODeportes" value='5' placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">
                                
                                 <div class="form-group col-md-4">
                                    <label for="text-input" class=" form-control-label">N° de veces que participa en actividades de enseñanza del Manejo de Dinero</label>
-                                   <input type="number" id="CArNumMDinero" name="CArNumMDinero" placeholder="" class="form-control">
+                                   <input type="number" id="CArNumMDinero" name="CArNumMDinero" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                    <label for="text-input" class=" form-control-label">N° de veces que participa en activisades para la toma de decisiones con apoyo</label>
-                                   <input type="number" id="CarNumTDecisiones" name="CarNumTDecisiones" placeholder="" class="form-control">
+                                   <input type="number" id="CarNumTDecisiones" name="CarNumTDecisiones" value='5'  placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">

@@ -37,7 +37,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Descripción de la meta trazada en el PII</label>
-                                    <input type="text" id="CarDesMeta" name="CarDesMeta" placeholder="" class="form-control">
+                                    <input type="text" id="CarDesMeta" name="CarDesMeta" value='Metra trazada PII' placeholder="" class="form-control">
                                     </div>
                                 </div>
 
@@ -53,7 +53,7 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Descripción del informe evolutivo</label>
-                                    <input type="text" id="CarDesInfome" name="CarDesInfome" placeholder="" class="form-control">
+                                    <input type="text" id="CarDesInfome" name="CarDesInfome" value='El infome 2...' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Cumplimiento del plan de intervención</label>

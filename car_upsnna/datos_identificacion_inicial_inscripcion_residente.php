@@ -30,15 +30,15 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Apellido Paterno</label>
-                                    <input type="text" id="NNAApellidoPaterno" name="NNAApellidoPaterno" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNAApellidoPaterno" name="NNAApellidoPaterno" value='Peralta' placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Apellido Materno</label>
-                                    <input type="text" id="NNAApellidoMaterno" name="NNAApellidoMaterno" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNAApellidoMaterno" name="NNAApellidoMaterno" value='Cruz' placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nombre</label>
-                                    <input type="text" id="NNANombre" name="NNANombre" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="NNANombre" name="NNANombre" value='Carlos Alberto' placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
@@ -97,7 +97,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Edad</label>
-                                    <input type="text" id="NNAEdad" name="NNAEdad" placeholder="" class="form-control">
+                                    <input type="text" id="NNAEdad" name="NNAEdad" value='12' placeholder="" class="form-control">
                                     </div>
                                 </div>
                                 <div class="form-group col-md-4">
@@ -110,7 +110,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Número o Código del Documento</label>
-                                    <input type="text" id="NNANumDoc" name="NNANumDoc" placeholder="" class="form-control">
+                                    <input type="text" id="NNANumDoc" name="NNANumDoc" value='52369874' placeholder="" class="form-control">
                                     </div>
                                 </div>
                             </div>

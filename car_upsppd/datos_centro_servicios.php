@@ -30,27 +30,27 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Código de la Entidad</label>
-                                    <input type="text" id="CarCodEntidad" name="CarCodEntidad" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="CarCodEntidad" name="CarCodEntidad" value='ENT001' placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nombre de la Entidad</label>
-                                    <input type="text" id="CarNomEntidad" name="CarNomEntidad" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="CarNomEntidad" name="CarNomEntidad" value='Minsa' placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Código de la Línea</label>
-                                    <input type="text" id="CarCodLinea" name="CarCodLinea" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="CarCodLinea" name="CarCodLinea" value='Lin01' placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <div class=" "><label for="text-input" class=" form-control-label">Línea de Intervención</label>
-                                    <input type="text" id="CarLineaI" name="CarLineaI" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="CarLineaI" name="CarLineaI" value='linea nombre' placeholder="" class="form-control"> </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Código del Servicio</label>
-                                    <input type="text" id="CarCodServicio" name="CarCodServicio" placeholder="" class="form-control"> </div>
+                                    <input type="text" id="CarCodServicio" name="CarCodServicio"  placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-6">
                                     <div class=" "><label for="text-input" class=" form-control-label">Nombre del Servicio</label>

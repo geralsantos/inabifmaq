@@ -39,7 +39,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Número de Documento de Identidad</label>
-                                    <input type="text" id="NNANumDoc" name="NNANumDoc" placeholder="" class="form-control"> </div>
+                                    <input type="number" id="NNANumDoc" name="NNANumDoc" value='56325684' placeholder="" class="form-control"> </div>
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Saber Leer y Escribir</label>

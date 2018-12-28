@@ -141,17 +141,17 @@
                             <div class="row">
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">N° visitas familiar recibe cada NNA</label>
-                                    <input type="number" id="NNAVisitaFamiliar" name="NNAVisitaFamiliar" placeholder="" class="form-control">
+                                    <input type="number" id="NNAVisitaFamiliar" name="NNAVisitaFamiliar" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">N° participaciones en escuela de padres </label>
-                                    <input type="number" id="NNAEscuelaPadres" name="NNAEscuelaPadres" placeholder="" class="form-control">
+                                    <input type="number" id="NNAEscuelaPadres" name="NNAEscuelaPadres" value='5' placeholder="" class="form-control">
                                 </div>
                             </div>
                             <div class="row">
                             <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">N° consejerias y orientaciones a la familia</label>
-                                    <input type="number" id="NNAOrientacionFamilia" name="NNAOrientacionFamilia" placeholder="" class="form-control">
+                                    <input type="number" id="NNAOrientacionFamilia" name="NNAOrientacionFamilia" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-6">
                                     <label for="text-input" class=" form-control-label">Familia usa redes de soporte familiar?</label>
@@ -164,15 +164,15 @@
                             <div class="row">
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº de consejerias y orientaciones al residente </label>
-                                    <input type="number" id="NNAConsejeria" name="NNAConsejeria" placeholder="" class="form-control">
+                                    <input type="number" id="NNAConsejeria" name="NNAConsejeria" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Charlas Preventivo  - Promocionales </label>
-                                    <input type="number" id="NNACharlasPreventivo" name="NNACharlasPreventivo" placeholder="" class="form-control">
+                                    <input type="number" id="NNACharlasPreventivo" name="NNACharlasPreventivo" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Nº Visitas Domiciliarias</label>
-                                    <input type="number" id="NNAVisitasDomiciliarias" name="NNAVisitasDomiciliarias" placeholder="" class="form-control">
+                                    <input type="number" id="NNAVisitasDomiciliarias" name="NNAVisitasDomiciliarias" value='5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-3">
                                     <label for="text-input" class=" form-control-label">Plan de Reinserción familiar</label>

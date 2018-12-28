@@ -37,7 +37,7 @@
                                 </div>
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Meta trazada en el PAI</label>
-                                    <input type="text" id="NNAMetaPAI" name="NNAMetaPAI" placeholder="" class="form-control">
+                                    <input type="text" id="NNAMetaPAI" name="NNAMetaPAI" value='Meta'  placeholder="" class="form-control">
                                      </div>
                                 </div>
                                 <div class="form-group col-md-4">
@@ -80,7 +80,7 @@
 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Hemoglobina(gr./dl.)</label>
-                                    <input type="number" id="NNAHemoglobina" name="NNAHemoglobina" placeholder="" class="form-control">
+                                    <input type="number" id="NNAHemoglobina" name="NNAHemoglobina" value='5.5' placeholder="" class="form-control">
                                 </div>
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Análisis de la Hemoglobina</label>

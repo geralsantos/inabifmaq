@@ -79,7 +79,7 @@
                             <div class="row">
                                 <div class="form-group col-md-4">
                                     <div class=" "><label for="text-input" class=" form-control-label">Número del documento de ingreso al car</label>
-                                    <input type="number" id="CarNumDoc" name="CarNumDoc" placeholder="" class="form-control">
+                                    <input type="number" id="CarNumDoc" name="CarNumDoc" value='5544545414' placeholder="" class="form-control">
                                     </div>
                                 </div>
 

@@ -50,7 +50,7 @@
 
                                 <div class="form-group col-md-4">
                                     <label for="text-input" class=" form-control-label">Descriptivo de la participación laboral</label>
-                                    <input type="text" id="CarDesParticipacionLa" name="CarDesParticipacionLa" placeholder="" class="form-control">
+                                    <input type="text" id="CarDesParticipacionLa" name="CarDesParticipacionLa" value='participa em ----' placeholder="" class="form-control">
                                 </div>
                                 
                             </div>
